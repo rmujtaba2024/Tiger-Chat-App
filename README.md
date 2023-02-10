@@ -6,5 +6,8 @@ This project is a full-stack real-time messaging web app that I built. The app h
 Deployed the backend on heroku https://dpu-tiger-chat.herokuapp.com/, and the front end on netlify.
 
 ![alt text](home.png)
+
 ![alt text](login.png)
+
 ![alt text](users.png)
+
